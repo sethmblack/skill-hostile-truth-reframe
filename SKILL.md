@@ -1,12 +1,10 @@
 ---
 name: hostile-truth-reframe
-description: Transform comfortable lies, euphemistic language, and corporate-speak
-  into direct, uncomfortable truths. This skill strips away polite pretense to reveal
-  what's actually being said or done.
+description: Transform comfortable lies, euphemistic language, and corporate-speak into direct, uncomfortable truths. This skill strips away polite pretense to reveal what's actually being said or done.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - hostile-truth-reframe
 - storytelling
