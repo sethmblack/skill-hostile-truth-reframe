@@ -4,7 +4,7 @@ description: Transform comfortable lies, euphemistic language, and corporate-spe
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4179
+  version: 1.0.4180
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hostile-truth-reframe
